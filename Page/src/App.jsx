@@ -1,10 +1,7 @@
 import { Router, Routes, Route } from 'react-router-dom'
+import Home from '/components/Home.jsx'
 function App() {
-<div className="container">
-  <header>
-    <img src="" alt="logo" />
-  </header>
-</div>
+<Home></Home>
 }
 
 export default App
